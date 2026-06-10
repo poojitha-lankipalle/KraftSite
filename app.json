@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "KraftSite",
+    "slug": "kraftsite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2C1810"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourname.kraftsite"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#2C1810"
+      },
+      "package": "com.yourname.kraftsite"
+    },
+    "plugins": [
+      [
+        "@stripe/stripe-react-native",
+        {
+          "merchantIdentifier": "merchant.com.yourname.kraftsite",
+          "enableGooglePay": false
+        }
+      ]
+    ]
+  }
+}
