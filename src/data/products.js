@@ -8,7 +8,7 @@ export const PRODUCTS = [
     description:
       'Handcrafted using traditional lacquerware techniques from Channapatna, Karnataka. Made from ivory wood and natural dyes. Each doll is unique and represents generations of artisan skill passed down through families.',
     category: 'Wooden Dolls',
-    image: 'https://images.unsplash.com/photo-1566140967404-b8b3932483f5?w=600&q=80',
+    image: 'https://www.zwende.com/products/personalized-wooden-doll-cool-guy-9cm-x-3cm?srsltid=AfmBOoqg7sJETgDBWaroUmRZTmSmmb5nHFVe8hQRlY6GCpVZqZKa2EOU',
     rating: 4.8,
     reviewCount: 234,
     inStock: true,
@@ -28,7 +28,7 @@ export const PRODUCTS = [
     description:
       'Traditional softwood dolls from Kondapalli village in Andhra Pradesh. Painted with vibrant vegetable colors depicting rural life, mythology and nature. A GI tagged craft of India.',
     category: 'Wooden Dolls',
-    image: 'https://images.unsplash.com/photo-1609743522653-52354461eb27?w=600&q=80',
+    image: 'https://outputs.kalgudi.com/p/c/kondapalli-decorative-dancing-doll/3gem_1n75',
     rating: 4.9,
     reviewCount: 189,
     inStock: true,
@@ -48,7 +48,7 @@ export const PRODUCTS = [
     description:
       'Handmade string puppet from Rajasthan, dressed in traditional Rajasthani costume with mirror work and bright colors. Used for centuries in folk performances telling stories of kings and queens.',
     category: 'Puppets',
-    image: 'https://images.unsplash.com/photo-1558618047-f4e60bfa1c8c?w=600&q=80',
+    image: 'https://rajasthaneshop.com/collection/rajasthani-puppet-pair-in-red/',
     rating: 4.7,
     reviewCount: 312,
     inStock: true,
@@ -68,7 +68,7 @@ export const PRODUCTS = [
     description:
       'The iconic bobblehead doll from Thanjavur, Tamil Nadu. Made from clay and paper mache with a weighted bottom that makes the head sway gracefully. Dressed in classical Bharatanatyam costume.',
     category: 'Clay Dolls',
-    image: 'https://images.unsplash.com/photo-1604480133435-25b86862d276?w=600&q=80',
+    image: 'https://www.wedtree.com/products/tanjore-dancing-doll-wl3959?srsltid=AfmBOopZZi_PXaL_RJqzbRR5WsKH72hLVBsA-fsD2EL-GLmVEo4Z_nZO',
     rating: 4.9,
     reviewCount: 156,
     inStock: true,
@@ -88,7 +88,7 @@ export const PRODUCTS = [
     description:
       'Cloth doll hand painted with traditional Madhubani art from Mithila region of Bihar. Features intricate patterns of nature, gods and geometric designs using natural colors on fabric.',
     category: 'Cloth Dolls',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80',
+    image: 'https://www.artpal.com/nikhilbrothersha?i=59064-9',
     rating: 4.6,
     reviewCount: 98,
     inStock: true,

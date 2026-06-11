@@ -26,6 +26,17 @@
           "enableGooglePay": false
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "0add994d-7456-4162-8f05-7d11917f180b"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/0add994d-7456-4162-8f05-7d11917f180b"
+    }
   }
 }
